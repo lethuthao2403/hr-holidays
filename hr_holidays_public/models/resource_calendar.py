@@ -6,7 +6,7 @@
 
 from odoo import models
 
-from odoo.addons.resource.models.resource import Intervals
+from odoo.addons.resource.models.resource_resource import Intervals
 
 
 class ResourceCalendar(models.Model):
